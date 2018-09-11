@@ -1,6 +1,6 @@
 # public-template-workspace
 
-This repository is a public workspace for notebooks and other material related to template development: feature testing, informal demos and benchmarks, etc. 
+This repository is a public workspace for notebooks and other material related to UrbanSim template development: feature testing, informal demos and benchmarks, etc. 
 
 Related repositories:
 
